@@ -3,8 +3,7 @@ public class HelloWorld {
 
         System.out.println("李某人");
         System.out.println("李某人");
-        System.out.println("李某人");
-        System.out.println("李某人");
-        System.out.println("李某人");
+
+
     }
 }
